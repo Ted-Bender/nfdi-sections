@@ -28,7 +28,7 @@ Following discussion within the section and any necessary adjustments, the white
 
 ## Resources
 
-- [Working Group Charta](https://zenodo.org/records/6475492)
+- [Working Group Charter](https://zenodo.org/records/6475492)
 - [Error needs culture](https://royalsocietypublishing.org/rsos/article/13/2/242233/480374/Error-needs-culture-Exploring-the-relationship)
 - [Slide deck for Workshops on Error Culture in Research Data Management](https://doi.org/10.5281/zenodo.16941849)
 - [Error Culture Community Collection](https://xam12.github.io/Error_Culture_Community_Collection/)
